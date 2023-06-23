@@ -1,4 +1,6 @@
-<?php include('partials/_db.php')?>
+<?php require_once('config.php')?>
+<!-- bağımlı olunan sayfalar için include yerim require kullanılır -->
+<?php include('partials/_db.php') ?>
 <?php include('partials/_header.php')?>
 <?php include('partials/_navbar.php')?>
 

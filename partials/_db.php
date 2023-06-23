@@ -1,5 +1,5 @@
 <?php 
-$kategoriler=["programlama","Web Geliştirme","Mobil Uygulamalar"];
+$kategoriler=["Programlama","Web Geliştirme","Mobil Uygulamalar"];
 $kurslar=[
 
     [
