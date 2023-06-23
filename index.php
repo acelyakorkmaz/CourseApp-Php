@@ -18,6 +18,9 @@
         <li class="nav-item">
             <a href="#" class="nav-link">Kurslar</a>
         </li>
+        <li class="nav-item ">
+            <a href="#" class="nav-link"></a>
+        </li>
     </ul>
 
 </nav>
