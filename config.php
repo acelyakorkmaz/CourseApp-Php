@@ -9,7 +9,5 @@ if(mysqli_connect_error()>0){
     die("hata: ".mysqli_connect_error());//eğer bağlantı hatası varsa kodları çalıştırma
 }
 
-echo "bağlantı başarılı";
 
-mysqli_close(($baglanti));
-echo "bağlantı kapatıldı";
+
